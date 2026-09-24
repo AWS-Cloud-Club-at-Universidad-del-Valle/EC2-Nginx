@@ -1,0 +1,12 @@
+# Claves privadas / secretos - NUNCA subir al repositorio
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Variables de entorno
+.env
+.env.*
+
+# Archivos del sistema
+.DS_Store
